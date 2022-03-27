@@ -68,7 +68,7 @@ public class Smartsuit : ModuleRules
                 //"Projects",
 
                 "Messaging",
-                "LiveLink",
+                "LiveLinkAnimationCore",
                 "LiveLinkInterface",
                 "LiveLinkMessageBusFramework",
                 "HeadMountedDisplay",
